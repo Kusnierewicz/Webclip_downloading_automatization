@@ -20,4 +20,4 @@ There is no license for this project yet.
   
 # Contacts
 
-If you want to participate in actively developing Gemius API automation please contact me via email
+If you want to participate in actively developing Web Clip automation please contact me via email
