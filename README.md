@@ -18,7 +18,9 @@ To be updated...
   
 # Licensing
 
-There is no license for this project yet.
+\* See [license.txt](https://github.com/Kusnierewicz/Webclip_downloading_automatization/blob/master/LICENSE.txt) for usage details.
+
+
   
 # Contacts
 
